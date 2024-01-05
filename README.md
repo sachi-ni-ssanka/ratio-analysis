@@ -9,4 +9,17 @@ This repo analyze company's performance on yearly basis using ratios such as pro
 
 ###
 
-Profitability is the measure of company's ability to deliver profit.
+Profitability ratio is the measure of company's ability to deliver profit.
+
+Return on capital employed (ROCE) = operating profit / (non-current liabilities +total equity)
+
+Return on sales (ROS) = operating profit / revenue %		
+
+Gross margin = gross profit/ revenue %			
+
+
+
+						
+
+						
+
